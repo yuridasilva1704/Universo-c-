@@ -1,4 +1,0 @@
-#Comandos
- - Inserir comando em tela
- 
- Console.WriteLine("Hello, world!");
